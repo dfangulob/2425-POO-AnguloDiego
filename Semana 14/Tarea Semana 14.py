@@ -86,3 +86,5 @@ if __name__ == "__main__":
     root = tk.Tk()  # Crear la ventana principal
     app = AgendaApp(root)  # Crear la instancia de la aplicación
     root.mainloop()  # Iniciar el bucle de eventos de Tkinter
+
+
